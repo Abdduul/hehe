@@ -2,6 +2,8 @@
 
 ## merubah case pada string
 
+#tes 1123
+
 # merubah semua ke upper case
 salam = "bro!"
 print("normal " + salam)
